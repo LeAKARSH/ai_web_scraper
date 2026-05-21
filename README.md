@@ -1,11 +1,11 @@
-# AI Web & YouTube Scraper
+# AI Web scrapper
 
 ![Python](https://img.shields.io/badge/Python-77.7%25-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML-22.3%25-orange.svg)
 
 ## Overview
 
-**AI Web & YouTube Scraper** is a simple yet powerful tool designed to efficiently extract and summarize content from websites or YouTube videos. Whether you need concise summaries for research, content curation, or information gathering, this scraper leverages AI to deliver results with minimal effort.
+**AI Web scrapper** is a simple yet powerful tool designed to efficiently extract and summarize content from websites or YouTube videos. Whether you need concise summaries for research, content curation, or information gathering, this scraper leverages AI to deliver results with minimal effort.
 
 ---
 
